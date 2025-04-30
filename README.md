@@ -25,7 +25,7 @@ Explainable AI (Grad-CAM++, SHAP) • Cryptography (ECDH, AES-GCM, HMAC) • Com
 
 | Emoji | Project | One-liner |
 |:-----:|:--------|:----------|
-| 🔫 | [Weapon-Detect-XAI](https://github.com/devrk23/weapon-detect-xai) | Real-time gun & knife detection with Grad-CAM++ explanations. |
+| 🔫 | [Weapon-Detect-XAI](https://github.com/devrk23/XAIwithWEAPON) | Real-time gun & knife detection with Grad-CAM++ explanations. |
 | 🔐 | [SecureChat](https://github.com/devrk23/secure-chat) | End-to-end encrypted messenger (ECDH + AES-GCM + HMAC). |
 | 📈 | [MentalHealth-Analysis](https://github.com/devrk23/depression-creative-analysis) | Correlation of depression vs. creative engagement (Spearman, Kruskal-Wallis). |
 | 🧭 | [Travel-Itinerary-Recommender](https://github.com/devrk23/travel-itinerary-recommender) | Cosine similarity-based personalized travel routes. |

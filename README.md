@@ -21,17 +21,15 @@ Explainable AI (Grad-CAM++, SHAP) • Cryptography (ECDH, AES-GCM, HMAC) • Com
 
 ---
 
-## 📂 Featured Projects
-
-| Emoji | Project | One-liner |
+## 📂 Featured Works
 |:-----:|:--------|:----------|
 | 🔫 | [Weapon-Detect-XAI](https://github.com/devrk23/XAIwithWEAPON) | Real-time gun & knife detection with Grad-CAM++ explanations. |
 | 🔐 | [SecureChat](https://github.com/devrk23/Secure-Chat-using-Python) | End-to-end encrypted messenger (ECDH + AES-GCM + HMAC). |
-| 📈 | [MentalHealth-Analysis](https://github.com/devrk23/depression-creative-analysis) | Correlation of depression vs. creative engagement (Spearman, Kruskal-Wallis). |
-| 🧭 | [Travel-Itinerary-Recommender](https://github.com/devrk23/travel-itinerary-recommender) | Cosine similarity-based personalized travel routes. |
+| 📈 | [Correlation-Analysis](https://github.com/devrk23/correlationAnalysis/tree/main) | Correlation of depression vs. creative engagement (Spearman, Kruskal-Wallis).
 | 🏦 | [ATM-Fingerprint-Auth](https://github.com/devrk23/atm-fingerprint-authentication) | Design & evaluation of fingerprint-based ATM login with liveness detection. |
-| 💻 | [Internship-Frontend-Exercises](https://github.com/devrk23/frontend-internship-exercises) | Interactive React & vanilla-JS pages built during frontend internship. |
-| 📊 | [Student-Performance-Analysis](https://github.com/devrk23/student-performance-analysis) | Data-driven insights on youth academic outcomes. |
+| 💻 | [Internship-Frontend-Exercises](https://github.com/devrk23/Book_Gallery) | Interactive React & vanilla-JS pages built during frontend internship. |
+| 📱 | [Mobile-App-UIs](https://github.com/devrk23/Mobile-Interface-with-Android-Studio) | Learning to develop mobile app UIs in Android Studio |
+| 📊 | [IBM Cognos Data Analytics - Student-Performance-Analysis](https://github.com/devrk23/IBM-Cognos-Data-Analytics-Project) | Data-driven insights on youth academic outcomes. |
 
 ---
 

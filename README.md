@@ -23,13 +23,14 @@ Explainable AI (Grad-CAM++, SHAP) • Cryptography (ECDH, AES-GCM, HMAC) • Com
 
 ## 📂 Featured Works
 |:-----:|:--------|:----------|
+
 | 🔫 | [Weapon-Detect-XAI](https://github.com/devrk23/XAIwithWEAPON) | Real-time gun & knife detection with Grad-CAM++ explanations. |
 
 | 🔐 | [SecureChat](https://github.com/devrk23/Secure-Chat-using-Python) | End-to-end encrypted messenger (ECDH + AES-GCM + HMAC). |
 
 | 📈 | [Correlation-Analysis](https://github.com/devrk23/correlationAnalysis/tree/main) | Correlation of depression vs. creative engagement (Spearman, Kruskal-Wallis). |
 
-| 🏦 | [ATM-Fingerprint-Auth](https://github.com/devrk23/atm-fingerprint-authentication) | Design & evaluation of fingerprint-based ATM login with liveness detection. |
+| 🏦 | [ATM-Fingerprint-Auth](https://github.com/devrk23/FIngerprintAuthwATM) | Design & evaluation of fingerprint-based ATM login with liveness detection. |
 
 | 💻 | [Internship-Frontend-Exercises](https://github.com/devrk23/Book_Gallery) | Interactive React & vanilla-JS pages built during frontend internship. |
 
